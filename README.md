@@ -1,7 +1,7 @@
 # Classification&regression models implementaion
 implementaion of supervised learning models
 
-This is the work of me and my co-student Guy Yehezkel’s(linkedIn: https://www.linkedin.com/in/guyyehezkel/), this task was given to us in the course Machine learning.
+This is the work of me and my co-student Guy Yehezkel’s, this task was given to us in the course Machine learning.
 The project contain:
 our implementaion of:
 -Classification Tree.
@@ -19,3 +19,7 @@ SMOTE(Oversampling technique) in order to deal with imbalanced data classes,
 log transform in order to deal with skewed features and one hot encoding for categorical features.
 
 We also compared our results with the matched models of Scikit-Learn.
+
+linkedIn of creators:
+Aviv Lugasi: https://www.linkedin.com/in/aviv-lugasi-b89693235/
+Guy Yehezkels:https://www.linkedin.com/in/guyyehezkel/
