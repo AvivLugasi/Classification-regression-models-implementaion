@@ -5,8 +5,11 @@ This is the work of me and my co-student Guy Yehezkel’s, this task was given t
 The project contain:
 our implementaion of:
 -Classification Tree.
+
 -Regression Tree.
+
 -Adaboost classifier.
+
 -Gradient boost regressor.
 
 it also contains some pre proccessing steps that we performed on our data in order to maximize the predictions results,
