@@ -1,7 +1,7 @@
 # Classification&regression models implementaion
 implementaion of supervised learning models
 
-This is the work of me and my co-student Guy Yehezkel’s, this task was given to us in the course Machine learning.
+This is the work of me and my co-student Guy Yehezkel’s(linkedIn: https://www.linkedin.com/in/guyyehezkel/), this task was given to us in the course Machine learning.
 The project contain:
 our implementaion of:
 -Classification Tree.
